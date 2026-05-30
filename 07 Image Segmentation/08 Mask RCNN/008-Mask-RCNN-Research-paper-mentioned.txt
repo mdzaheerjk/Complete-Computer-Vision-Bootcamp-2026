@@ -1,0 +1,10 @@
+Research paper mentioned
+
+MaskRCNN
+https://arxiv.org/pdf/1703.06870
+
+FPN
+https://arxiv.org/pdf/1612.03144v2
+
+FPN Diagram
+https://www.researchgate.net/figure/Network-architecture-of-feature-pyramid-network-FPN-In-this-Figure-the-upward-red_fig3_349963883
